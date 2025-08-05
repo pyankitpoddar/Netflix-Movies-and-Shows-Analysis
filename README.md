@@ -70,7 +70,3 @@ This interactive Power BI dashboard provides a comprehensive analysis of Netflix
 - **Power BI Desktop** (for editing and customization)
 - **Power BI Service** (for online sharing and interaction)
 - **Input Formats:** CSV, Excel, or compatible database
-
----
-
-![Dashboard Preview](Dashboard-Homepage.jpg)
