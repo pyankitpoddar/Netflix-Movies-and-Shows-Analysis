@@ -4,6 +4,7 @@
 
 This interactive Power BI dashboard provides a comprehensive analysis of Netflix’s content library from 1925 to 2020. It visualizes key metrics such as content distribution by genre, rating, country of origin, and release year, helping users explore trends, diversity, and growth in Netflix's catalog.
 
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzMyNDkxMDUtMWM5ZS00OTY3LWJlMzktNzBkYzk0ZTQ5NTc3IiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9)
 ---
 
 ## 2. Dataset Description
